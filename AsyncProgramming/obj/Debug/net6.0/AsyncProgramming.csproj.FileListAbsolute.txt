@@ -1,0 +1,15 @@
+D:\Academic\dotnet\c#\Asynchronous-programming-with-csharp\AsyncProgramming\bin\Debug\net6.0\AsyncProgramming.exe
+D:\Academic\dotnet\c#\Asynchronous-programming-with-csharp\AsyncProgramming\bin\Debug\net6.0\AsyncProgramming.deps.json
+D:\Academic\dotnet\c#\Asynchronous-programming-with-csharp\AsyncProgramming\bin\Debug\net6.0\AsyncProgramming.runtimeconfig.json
+D:\Academic\dotnet\c#\Asynchronous-programming-with-csharp\AsyncProgramming\bin\Debug\net6.0\AsyncProgramming.dll
+D:\Academic\dotnet\c#\Asynchronous-programming-with-csharp\AsyncProgramming\bin\Debug\net6.0\AsyncProgramming.pdb
+D:\Academic\dotnet\c#\Asynchronous-programming-with-csharp\AsyncProgramming\obj\Debug\net6.0\AsyncProgramming.csproj.AssemblyReference.cache
+D:\Academic\dotnet\c#\Asynchronous-programming-with-csharp\AsyncProgramming\obj\Debug\net6.0\AsyncProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academic\dotnet\c#\Asynchronous-programming-with-csharp\AsyncProgramming\obj\Debug\net6.0\AsyncProgramming.AssemblyInfoInputs.cache
+D:\Academic\dotnet\c#\Asynchronous-programming-with-csharp\AsyncProgramming\obj\Debug\net6.0\AsyncProgramming.AssemblyInfo.cs
+D:\Academic\dotnet\c#\Asynchronous-programming-with-csharp\AsyncProgramming\obj\Debug\net6.0\AsyncProgramming.csproj.CoreCompileInputs.cache
+D:\Academic\dotnet\c#\Asynchronous-programming-with-csharp\AsyncProgramming\obj\Debug\net6.0\AsyncProgramming.dll
+D:\Academic\dotnet\c#\Asynchronous-programming-with-csharp\AsyncProgramming\obj\Debug\net6.0\refint\AsyncProgramming.dll
+D:\Academic\dotnet\c#\Asynchronous-programming-with-csharp\AsyncProgramming\obj\Debug\net6.0\AsyncProgramming.pdb
+D:\Academic\dotnet\c#\Asynchronous-programming-with-csharp\AsyncProgramming\obj\Debug\net6.0\AsyncProgramming.genruntimeconfig.cache
+D:\Academic\dotnet\c#\Asynchronous-programming-with-csharp\AsyncProgramming\obj\Debug\net6.0\ref\AsyncProgramming.dll
