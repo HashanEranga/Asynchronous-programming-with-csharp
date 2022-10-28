@@ -16,20 +16,35 @@ namespace asyncprogramming
             Coffee coffee = PureCoffee();
             Console.WriteLine("coffee is ready");
 
-            Egg egg = await FryEggsAsync(2);
+            Task<Egg> eggTask = FryEggsAsync(2);
+            Task<Bacon> baconTask = FryBaconAsync(2);
+            Task<Toast> toastTask = MakeToastwithButterAndJamAsync(2);
+           
+            //Egg egg = await eggTask;
+
+            //Bacon bacon = await baconTask;
+
+            //Toast toast = await toastTask;
+
+            Juice oj = PourOJ();
+            Console.WriteLine("OJ is ready");
+
+            await Task.WhenAll(eggTask, baconTask, toastTask);
+
             Console.WriteLine("Egg is ready");
-
-            Bacon bacon = await FryBaconAsync(3);
             Console.WriteLine("Bacon is ready");
+            Console.WriteLine("Toast is ready");
 
-            Toast toast = await ToastBreadAsync(2);
+            Console.WriteLine("Breakfast is ready");
+        }
+        private async static Task<Toast> MakeToastwithButterAndJamAsync(int number)
+        {
+            Toast toast = await ToastBreadAsync(number);
             ApplyButter(toast);
             ApplyJam(toast);
             Console.WriteLine("Toast is ready");
 
-            Juice oj = PourOJ();
-            Console.WriteLine("OJ is ready");
-            Console.WriteLine("Breakfast is ready");
+            return toast;
         }
 
         private static Task<Toast> ToastBreadAsync(int slices)
